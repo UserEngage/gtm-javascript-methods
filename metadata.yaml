@@ -1,0 +1,5 @@
+homepage: "https://user.com"
+documentation: "https://user.com/en/integrations/javascript"
+versions:
+  - sha: ceb346c611acd74b4f15c78bbd347f2ee128b31e
+    changeNotes: Initial release.
